@@ -1,3 +1,0 @@
-### fname                               outputname             isbkg   xsec            itype
-/eos/project-c/collider-fcc-hl-lhc/public/hepmc_files/VBF/signal/      /eos/project-c/collider-fcc-hl-lhc/public/hepmc_files/VBF/ntuples/sig_out.root 0 1 100
-/eos/project/c/collider-fcc-hl-lhc/public/hepmc_files/VBF/background/  /eos/project-c/collider-fcc-hl-lhc/public/hepmc_files/VBF/ntuples/bkg_out.root 1 1 -1
